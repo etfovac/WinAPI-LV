@@ -3,6 +3,9 @@
  
 [WinAPI.dll](https://etfovac.github.io/WinAPI/) consists of Win API functions for Window, Taskbar, Screens, etc, conveniently organized and wrapped in a C# DLL.
 
+The file WinAPI.dll is in folder [DLL](/DLL/) and it can be moved elsewhere, but you'll have to browse to it in the .NET constructor node.  
+More elaborate example VIs are in folder [Examples](/Examples/).
+
 See this repo in NI Forums > Example Code: <a href="https://forums.ni.com/t5/Example-Code/LIB-that-uses-DLL-to-easily-manipulate-Windows-Taskbar-Screens/ta-p/4076017">LIB that uses DLL to easily manipulate Windows, Taskbar, Screens, etc</a>  
 
 ### Project Overview
