@@ -1,4 +1,5 @@
-# LabVIEW wrapper LIB & examples that use WinAPI.dll [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/etfovac/WinAPI-LV/blob/master/LICENSE)
+# LabVIEW wrapper LIB & examples that use WinAPI.dll [![DOI](https://zenodo.org/badge/287580025.svg)](https://zenodo.org/badge/latestdoi/287580025) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/etfovac/WinAPI-LV/blob/master/LICENSE)  
+ 
  LabVIEW LIB & examples that use custom WinAPI.dll (InteropAssembly that wrapps user32 and shell32 functions for Window, Taskbar, Screens, etc manipulation) 
  
 [WinAPI.dll](https://etfovac.github.io/WinAPI/) consists of Win API functions for Window, Taskbar, Screens, etc, conveniently organized and wrapped in a C# DLL.
